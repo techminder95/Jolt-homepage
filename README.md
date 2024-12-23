@@ -1,13 +1,7 @@
-# Jolt
-
-<img src="assets/name.png" width="80%" style="display:block; margin: 30px auto;max-width: 550px;">
-
-The social hub for your media server.
-
-> **Note:** This project is still in very early alpha stages. A lot of features are only lightly tested, and may not even be implemented yet, but there's lots more to come!
-
+# Jolt(beta)
 ## Introduction
-
+<img src="assets/name.png" width="80%" style="display:block; margin: 30px auto;max-width: 550px;">
+> **Note:** This project is still in very early alpha stages. A lot of features are only lightly tested, and may not even be implemented yet, but there's lots more to come!
 Jolt brings the users of your media server together in one place. With profiles directly integrated into Jellyfin, movie and TV data from TMDB, and a powerful feed and recommendation system, Jolt connects your users by allowing them to review and rate media, recommend movies and TV shows to each other, as well as **[WIP]** suggest movies and shows that groups can watch together.
 
 ### Features
